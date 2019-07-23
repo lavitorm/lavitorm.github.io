@@ -1,2 +1,2 @@
 # lavitorm.github.io
-Class exercise webpage with basic profile.
+Short bio / basic profile.
